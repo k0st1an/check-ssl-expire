@@ -3,7 +3,7 @@
 # Author: Konstantin Kruglov
 # email: kruglovk@gmail.com
 # license: MIT
-# home: https://github.com/k0st1an/check-ssl-expired
+# home: https://github.com/k0st1an/check-ssl-expire
 
 HOST=
 TIMEOUT=5
